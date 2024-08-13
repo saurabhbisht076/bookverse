@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "name": "story book",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+        "title": "Worlds Between Pages: Tales of Adventure, Mystery, and Magic"
+      },
+       {
+         "id": 1,
+         "name": "comic book",
+         "price": 0,
+         "category": "entertainment",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Worlds Between Pages: Tales of Adventure, Mystery, and Magic"
+      },
+       {
+         "id": 2,
+         "name": "comedy book",
+         "price": 0,
+         "category": "free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Laughs Galore: Hilarious Tales to Brighten Your Day"
+      },
+      
+       {
+         "id": 3,
+         "name": "spritiual book",
+         "price": 60,
+         "category": "entertainment",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Tales of Wonder: A Collection of Captivating Stories"
+      },
+      
+       {
+         "id": 4,
+         "name": "hero book",
+         "price": 50,
+         "category": "thriller",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Giggles and Grins: Side-Splitting Stories for All Ages"
+      },
+      
+       {
+         "id": 5,
+         "name": "adventure book",
+         "price": 90,
+         "category": "adventure",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Adventures Beyond: Exploring the Unknown through Stories"
+      },
+      
+       {
+         "id": 6,
+         "name": "comedy book",
+         "price": 0,
+         "category": "free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Chuckles and Chuckles: A Comical Collection of Laughter"
+      },
+      
+       {
+         "id": 7,
+         "name": "story book",
+         "price": 0,
+         "category": "free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Legends of Lore: Mythical Tales from Ancient Times"
+      },
+      
+       {
+         "id": 8,
+         "name": "comedy book",
+         "price": 0,
+         "category": "free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Belly Laughs: Rib-Tickling Stories to Lighten Your Mood"
+      },
+      
+       {
+         "id": 9,
+         "name": "story book",
+         "price": 0,
+         "category": "free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Whispers of Wonder: Magical Stories to Enchant Your Soul"
+      },
+      
+       {
+         "id": 10,
+         "name": "horror book",
+         "price": 100,
+         "category": "comedy",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718162198~exp=1718165798~hmac=b084517f35599c35197091e1c5be833deb2667448475e779ee45f7ed754f1523&w=740",
+         "title": "Laugh Riot: A Zany Collection of Humorous Escapades"
+      }
+]
